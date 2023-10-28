@@ -6,6 +6,7 @@ My name is Marice, I'm 28, from Norway
 - 👩‍🎓 I'm (hopefully) soon a front-end developer graduated from Noroff School of Technology
 - 💇‍♀️ I am a hairdresser/barber
 - 🐶 I love dogs, and i have 3!
+- Portfolio: https://portfolio-mariceashtiani.netlify.app/
 
 ### Languages:
 
